@@ -10,6 +10,7 @@ import lombok.Data;
 @Data@Component
 public class Member {
 	private String mid, password,address, name, phone, mail,account,birth;
+
 	
 
 }
