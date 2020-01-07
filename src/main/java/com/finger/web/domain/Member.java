@@ -74,7 +74,7 @@ public class Member {
 	public void setBirth(String birth) {
 		this.birth = birth;
 	}
-	// 이야
+	// 이야야야
 	
 
 }
